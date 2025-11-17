@@ -8,6 +8,6 @@ INTO TABLE tl_result
 FROM Spfli
 JOIN sairport ON Spfli-airpfrom - = sairport-id. 
 
-START OF SELECTION. 
+
  
 
